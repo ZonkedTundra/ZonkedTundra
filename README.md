@@ -1,2 +1,2 @@
-[![ZonkedTundra's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZonkedTundra&show_icons=true&include_all_commits=true&hide_border=true&theme=tokyonight&bg_color=0000)](https://github.com/ZonkedTundra/)
+[![ZonkedTundra's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZonkedTundra&show_icons=true&include_all_commits=true&hide_border=true&theme=midnight-purple&bg_color=0000)](https://github.com/ZonkedTundra/)
 [![ZonkedTundra's Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ZonkedTundra&layout=compact&hide_border=true&hide=shell&langs_count=7&theme=tokyonight&bg_color=0000)](https://github.com/ZonkedTundra?tab=repositories)
